@@ -9,5 +9,5 @@ Testi e soluzioni delle esercitazioni settimanali di laboratorio
   * Soluzioni proposte
 * [Laboratorio 04](./Lab04/Lab04_testo.pdf?raw=true) (26-27/10/2022)
   * Soluzioni proposte
-* Laboratorio 05 (2-3/11/2022)
+* [Laboratorio 05](./Lab05/Lab05_testo.pdf?raw=true) (2-3/11/2022)
   * Soluzioni proposte
