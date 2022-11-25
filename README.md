@@ -14,6 +14,8 @@ Testi e soluzioni delle esercitazioni settimanali di laboratorio
 * [Laboratorio 06](./Lab06/Lab06_testo.pdf?raw=true) (9-10/11/2022)
   * [Soluzioni proposte](./Lab06/Lab06_soluzioni.zip?raw=true)
 * [Laboratorio 07](./Lab07/Lab07_testo.pdf?raw=true) (16-17/11/2022)
-  * Soluzioni proposte
+  * [Soluzioni proposte](./Lab07/Lab07_soluzioni.zip?raw=true)
 * [Laboratorio 08](./Lab08/Lab08_testo.pdf?raw=true) (23-24/11/2022)
+  * Soluzioni proposte
+* [Laboratorio 09](./Lab09/Lab09_testo.pdf?raw=true) (30/11/2022-1/12/2022)
   * Soluzioni proposte
